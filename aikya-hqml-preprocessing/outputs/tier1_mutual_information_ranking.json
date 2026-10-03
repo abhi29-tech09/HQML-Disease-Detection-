@@ -1,0 +1,442 @@
+[
+  {
+    "symptom": "fatigue",
+    "mutual_information": 0.68994
+  },
+  {
+    "symptom": "shortness_of_breath",
+    "mutual_information": 0.55108
+  },
+  {
+    "symptom": "chest_pain",
+    "mutual_information": 0.47139
+  },
+  {
+    "symptom": "dry_cough",
+    "mutual_information": 0.43967
+  },
+  {
+    "symptom": "shortness_of_breath_on_exertion",
+    "mutual_information": 0.43967
+  },
+  {
+    "symptom": "chronic_cough",
+    "mutual_information": 0.40496
+  },
+  {
+    "symptom": "mild_fever",
+    "mutual_information": 0.40496
+  },
+  {
+    "symptom": "sore_throat",
+    "mutual_information": 0.40496
+  },
+  {
+    "symptom": "headache",
+    "mutual_information": 0.36692
+  },
+  {
+    "symptom": "loss_of_appetite",
+    "mutual_information": 0.36692
+  },
+  {
+    "symptom": "nausea",
+    "mutual_information": 0.36692
+  },
+  {
+    "symptom": "productive_cough",
+    "mutual_information": 0.36692
+  },
+  {
+    "symptom": "rapid_heart_rate",
+    "mutual_information": 0.36692
+  },
+  {
+    "symptom": "dizziness",
+    "mutual_information": 0.32508
+  },
+  {
+    "symptom": "fever",
+    "mutual_information": 0.32508
+  },
+  {
+    "symptom": "itching",
+    "mutual_information": 0.32508
+  },
+  {
+    "symptom": "joint_pain",
+    "mutual_information": 0.32508
+  },
+  {
+    "symptom": "rash",
+    "mutual_information": 0.32508
+  },
+  {
+    "symptom": "wheezing",
+    "mutual_information": 0.32508
+  },
+  {
+    "symptom": "blurred_vision",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "chest_tightness",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "cough",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "hemoptysis",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "nasal_congestion",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "runny_nose",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "sleep_disturbance",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "sweating",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "vomiting",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "weight_loss",
+    "mutual_information": 0.27877
+  },
+  {
+    "symptom": "abdominal_pain",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "chills",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "confusion",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "cyanosis",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "difficulty_concentrating",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "difficulty_swallowing",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "high_fever",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "hoarseness",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "leg_swelling",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "sensitivity_to_light",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "skin_redness",
+    "mutual_information": 0.22697
+  },
+  {
+    "symptom": "anxiety_symptoms",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "body_aches",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "chest_discomfort",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "constipation",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "difficulty_breathing_at_night",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "dry_skin",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "eye_redness",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "flank_pain",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "frequent_urination",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "joint_swelling",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "loss_of_smell",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "low_mood",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "muscle_pain",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "painful_urination",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "palpitations",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "rapid_breathing",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "recurrent_infections",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "severe_headache",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "skin_scaling",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "sneezing",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "sudden_shortness_of_breath",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "swollen_lymph_nodes",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "watery_eyes",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "weight_gain",
+    "mutual_information": 0.16794
+  },
+  {
+    "symptom": "abdominal_tenderness",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "acid_reflux",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "blood_in_urine",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "cloudy_urine",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "clubbing_of_fingers",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "cold_hands_and_feet",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "cold_intolerance",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "daytime_sleepiness",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "diarrhea",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "difficulty_walking",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "excessive_thirst",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "eye_discharge",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "facial_pain",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "frequent_hunger",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "hair_loss",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "heartburn",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "heat_intolerance",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "joint_redness",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "joint_stiffness",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "loss_of_taste",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "loss_of_voice",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "low_energy",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "mild_cough",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "mild_headache",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "morning_headache",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "muscle_tension",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "night_sweats",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "nosebleed",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "pale_skin",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "reduced_range_of_motion",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "salty_tasting_skin",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "sensitivity_to_sound",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "severe_shortness_of_breath",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "slow_healing_wounds",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "slurred_speech",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "snoring",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "sour_taste",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "sudden_chest_pain",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "sudden_joint_pain",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "sudden_numbness",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "sudden_severe_headache",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "throbbing_head_pain",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "tremor",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "unexplained_weight_loss",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "urgency_to_urinate",
+    "mutual_information": 0.09804
+  },
+  {
+    "symptom": "weakness_one_side",
+    "mutual_information": 0.09804
+  }
+]

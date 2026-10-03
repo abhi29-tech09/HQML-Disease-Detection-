@@ -1,0 +1,39 @@
+{
+  "tier1": {
+    "diseases": 50,
+    "raw_symptom_features": 110,
+    "after_feature_selection": 110,
+    "dropped_features": [],
+    "qubit_ready_feature_count": 34,
+    "qubits_needed_amplitude_encoding": 6,
+    "qubits_needed_angle_encoding_1_per_feature": 34
+  },
+  "tier2": {
+    "diseases_after_cleaning": 14070,
+    "features_after_cleaning": 683,
+    "svd_components": 20,
+    "variance_retained": 0.2502,
+    "per_component_variance": [
+      0.0722,
+      0.028,
+      0.0147,
+      0.0146,
+      0.0115,
+      0.0107,
+      0.0101,
+      0.0091,
+      0.0084,
+      0.008,
+      0.0078,
+      0.0071,
+      0.0069,
+      0.0065,
+      0.0061,
+      0.0061,
+      0.0058,
+      0.0058,
+      0.0056,
+      0.0052
+    ]
+  }
+}

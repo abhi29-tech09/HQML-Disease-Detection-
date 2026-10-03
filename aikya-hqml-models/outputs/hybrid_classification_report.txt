@@ -1,0 +1,56 @@
+                         precision    recall  f1-score   support
+
+       acute_bronchitis       0.56      1.00      0.71         5
+      allergic_rhinitis       1.00      0.80      0.89         5
+       anxiety_disorder       0.67      0.40      0.50         5
+           appendicitis       0.50      0.60      0.55         5
+                   ards       0.80      0.80      0.80         5
+                 asthma       0.40      0.40      0.40         5
+         bronchiectasis       0.22      0.40      0.29         5
+             chickenpox       0.12      0.20      0.15         5
+     chronic_bronchitis       0.43      0.60      0.50         5
+            common_cold       0.00      0.00      0.00         5
+         conjunctivitis       0.25      0.20      0.22         5
+                   copd       0.50      0.20      0.29         5
+coronary_artery_disease       0.33      0.20      0.25         5
+               covid_19       0.50      0.50      0.50         4
+        cystic_fibrosis       0.40      0.40      0.40         5
+                 dengue       0.50      1.00      0.67         5
+             depression       0.20      0.20      0.20         5
+                 eczema       0.43      0.75      0.55         4
+        gastroenteritis       0.33      0.20      0.25         5
+                   gerd       0.40      0.50      0.44         4
+                   gout       0.56      1.00      0.71         5
+          heart_failure       0.50      0.20      0.29         5
+           hypertension       0.00      0.00      0.00         5
+        hyperthyroidism       0.50      0.40      0.44         5
+         hypothyroidism       0.44      0.80      0.57         5
+              influenza       0.17      0.25      0.20         4
+ iron_deficiency_anemia       0.33      0.25      0.29         4
+          kidney_stones       0.75      0.60      0.67         5
+             laryngitis       0.67      0.40      0.50         5
+            lung_cancer       1.00      0.20      0.33         5
+                malaria       0.00      0.00      0.00         4
+                measles       0.00      0.00      0.00         5
+               migraine       0.50      0.50      0.50         4
+obstructive_sleep_apnea       0.67      0.40      0.50         5
+         osteoarthritis       1.00      0.20      0.33         5
+            pharyngitis       0.75      0.60      0.67         5
+       pleural_effusion       0.00      0.00      0.00         5
+              pneumonia       0.75      0.60      0.67         5
+           pneumothorax       0.40      0.40      0.40         5
+              psoriasis       0.00      0.00      0.00         4
+     pulmonary_embolism       0.67      0.80      0.73         5
+     pulmonary_fibrosis       0.50      0.60      0.55         5
+ pulmonary_hypertension       0.27      0.60      0.38         5
+            sarcoidosis       0.43      0.60      0.50         5
+              sinusitis       0.75      0.60      0.67         5
+                 stroke       0.67      0.50      0.57         4
+           tuberculosis       0.00      0.00      0.00         5
+        type_2_diabetes       0.00      0.00      0.00         5
+          typhoid_fever       0.29      0.50      0.36         4
+urinary_tract_infection       0.57      0.80      0.67         5
+
+               accuracy                           0.42       240
+              macro avg       0.43      0.42      0.40       240
+           weighted avg       0.44      0.42      0.40       240

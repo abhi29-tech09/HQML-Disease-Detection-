@@ -1,0 +1,302 @@
+{
+  "acute_bronchitis": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.7504,
+    "n_positive_test_samples": 5
+  },
+  "allergic_rhinitis": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.3529,
+    "n_positive_test_samples": 5
+  },
+  "anxiety_disorder": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.2973,
+    "n_positive_test_samples": 5
+  },
+  "appendicitis": {
+    "tier": "emergency",
+    "target_sensitivity": 0.9,
+    "threshold": 0.1131,
+    "n_positive_test_samples": 5
+  },
+  "ards": {
+    "tier": "emergency",
+    "target_sensitivity": 0.9,
+    "threshold": 0.0922,
+    "n_positive_test_samples": 5
+  },
+  "asthma": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.469,
+    "n_positive_test_samples": 5
+  },
+  "bronchiectasis": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.3734,
+    "n_positive_test_samples": 5
+  },
+  "chickenpox": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.1579,
+    "n_positive_test_samples": 5
+  },
+  "chronic_bronchitis": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.4431,
+    "n_positive_test_samples": 5
+  },
+  "common_cold": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.3006,
+    "n_positive_test_samples": 5
+  },
+  "conjunctivitis": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.1348,
+    "n_positive_test_samples": 5
+  },
+  "copd": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.258,
+    "n_positive_test_samples": 5
+  },
+  "coronary_artery_disease": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.2182,
+    "n_positive_test_samples": 5
+  },
+  "covid_19": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.4278,
+    "n_positive_test_samples": 4
+  },
+  "cystic_fibrosis": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.3924,
+    "n_positive_test_samples": 5
+  },
+  "dengue": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.5269,
+    "n_positive_test_samples": 5
+  },
+  "depression": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.3942,
+    "n_positive_test_samples": 5
+  },
+  "eczema": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.5881,
+    "n_positive_test_samples": 4
+  },
+  "gastroenteritis": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.382,
+    "n_positive_test_samples": 5
+  },
+  "gerd": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.6698,
+    "n_positive_test_samples": 4
+  },
+  "gout": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.639,
+    "n_positive_test_samples": 5
+  },
+  "heart_failure": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.3586,
+    "n_positive_test_samples": 5
+  },
+  "hypertension": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.4635,
+    "n_positive_test_samples": 5
+  },
+  "hyperthyroidism": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.5003,
+    "n_positive_test_samples": 5
+  },
+  "hypothyroidism": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.4813,
+    "n_positive_test_samples": 5
+  },
+  "influenza": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.4689,
+    "n_positive_test_samples": 4
+  },
+  "iron_deficiency_anemia": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.2119,
+    "n_positive_test_samples": 4
+  },
+  "kidney_stones": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.2674,
+    "n_positive_test_samples": 5
+  },
+  "laryngitis": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.373,
+    "n_positive_test_samples": 5
+  },
+  "lung_cancer": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.4049,
+    "n_positive_test_samples": 5
+  },
+  "malaria": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.1694,
+    "n_positive_test_samples": 4
+  },
+  "measles": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.0979,
+    "n_positive_test_samples": 5
+  },
+  "migraine": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.6394,
+    "n_positive_test_samples": 4
+  },
+  "obstructive_sleep_apnea": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.1106,
+    "n_positive_test_samples": 5
+  },
+  "osteoarthritis": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.1879,
+    "n_positive_test_samples": 5
+  },
+  "pharyngitis": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.4763,
+    "n_positive_test_samples": 5
+  },
+  "pleural_effusion": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.2112,
+    "n_positive_test_samples": 5
+  },
+  "pneumonia": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.4236,
+    "n_positive_test_samples": 5
+  },
+  "pneumothorax": {
+    "tier": "emergency",
+    "target_sensitivity": 0.9,
+    "threshold": 0.06,
+    "n_positive_test_samples": 5
+  },
+  "psoriasis": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.1447,
+    "n_positive_test_samples": 4
+  },
+  "pulmonary_embolism": {
+    "tier": "emergency",
+    "target_sensitivity": 0.9,
+    "threshold": 0.3442,
+    "n_positive_test_samples": 5
+  },
+  "pulmonary_fibrosis": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.4665,
+    "n_positive_test_samples": 5
+  },
+  "pulmonary_hypertension": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.1106,
+    "n_positive_test_samples": 5
+  },
+  "sarcoidosis": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.4705,
+    "n_positive_test_samples": 5
+  },
+  "sinusitis": {
+    "tier": "self_care",
+    "target_sensitivity": 0.5,
+    "threshold": 0.4404,
+    "n_positive_test_samples": 5
+  },
+  "stroke": {
+    "tier": "emergency",
+    "target_sensitivity": 0.9,
+    "threshold": 0.0603,
+    "n_positive_test_samples": 4
+  },
+  "tuberculosis": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.2749,
+    "n_positive_test_samples": 5
+  },
+  "type_2_diabetes": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.2586,
+    "n_positive_test_samples": 5
+  },
+  "typhoid_fever": {
+    "tier": "urgent",
+    "target_sensitivity": 0.75,
+    "threshold": 0.4198,
+    "n_positive_test_samples": 4
+  },
+  "urinary_tract_infection": {
+    "tier": "routine",
+    "target_sensitivity": 0.6,
+    "threshold": 0.7584,
+    "n_positive_test_samples": 5
+  }
+}
