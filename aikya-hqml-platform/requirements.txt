@@ -1,0 +1,8 @@
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+pydantic==2.13.5
+python-multipart==0.0.32
+pennylane==0.45.1
+scikit-learn==1.8.0
+pandas==3.0.2
+numpy==2.4.4
